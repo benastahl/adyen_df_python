@@ -11,7 +11,7 @@ All libraries used are base libraries (no need to install any)
 fingerprintGen = Fingerprint()
 device_fingerprint = fingerprintGen.generateFingerprint()
 ```
-(The values are preset, you will need to change them if you want a different one if the python file)
+(The values are preset, you will need to change them in the python file if you want a different fingerprint)
 
 
 JS Generator Script: https://live.adyen.com/hpp/js/df.js
