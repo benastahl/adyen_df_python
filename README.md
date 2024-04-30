@@ -1,5 +1,5 @@
 # Adyen Device Fingerprint Encryptor
-# Made by Volt#9540
+# Made by mr.appa (discord)
 
 ## Feel free to message me with any questions
 
